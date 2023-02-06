@@ -1,0 +1,4 @@
+figlet
+termcolor
+argparse
+requests
